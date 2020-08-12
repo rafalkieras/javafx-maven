@@ -1,0 +1,16 @@
+*.iml
+.gradle/
+.classpath
+.project
+.settings/
+build/
+classes
+voluum-billing-service/src/main/generated
+voluum-billing-service/src/test/generated
+out/
+target
+.idea/*
+!.idea/runConfigurations
+test-output
+.apt_generated
+.factorypath
